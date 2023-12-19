@@ -1,0 +1,28 @@
+{
+    "fruits": [
+        {
+            "name": "Apple",
+            "image": "./assets/apple.jpeg"
+        },
+        {
+            "name": "Mango",
+            "image": "./assets/mango.jpeg"
+        },
+        {
+            "name": "Banana",
+            "image": "./assets/banana.jpg"
+        },
+        {
+            "name": "Strawberry",
+            "image": "./assets/strawberry.jpeg"
+        },
+        {
+            "name": "Orange",
+            "image": "./assets/orange.jpg"
+        },
+        {
+            "name": "Pineapple",
+            "image": "./assets/pineapple.jpg"
+        }
+    ]
+}
