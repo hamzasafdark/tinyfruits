@@ -1,0 +1,28 @@
+{
+    "fruits": [
+        {
+            "name": "Apple",
+            "image": "https://www.gulab.pk/karachi/wp-content/uploads/sites/20/2022/01/12-2.jpg"
+        },
+        {
+            "name": "Mango",
+            "image": "https://sadruddin.com/wp-content/uploads/2022/06/mango1.jpg"
+        },
+        {
+            "name": "Banana",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_bSaF92yqBfGgUM0Pf0-mEXz2Nm1etvohwQ&usqp=CAU"
+        },
+        {
+            "name": "Strawberry",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Garden_strawberry_%28Fragaria_%C3%97_ananassa%29_single2.jpg/800px-Garden_strawberry_%28Fragaria_%C3%97_ananassa%29_single2.jpg"
+        },
+        {
+            "name": "Orange",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVn7Squg2tb-nb8gbUyOqXvGcEHZlToz3ftQ&usqp=CAU"
+        },
+        {
+            "name": "Pineapple",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGJT9kRr3dpnYdhXKKfR5S7hP7KP7v68295i-jOteFfo4zQvj9LQPZvQ-tY8ghKlmCDA&usqp=CAU"
+        }
+    ]
+}
